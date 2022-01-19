@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Steveorevo/node-red-contrib-credentials.git"
+    "url": "https://github.com/just-grizzle/node-red-contrib-credentials.git"
   },
   "dependencies": {},
   "node-red": {
